@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "jiaxun",
+    "password": null,
+    "database": "waas",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "jiaxun",
+    "password": null,
+    "database": "waas",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "jiaxun",
+    "password": null,
+    "database": "waas",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  }
+}
